@@ -1,0 +1,10 @@
+{
+    "About": {
+      "greeting": "this the is key of About Page",
+      "description": {
+        "heading1": "Working Done on About page ",
+        "paragraph1": "This is a <1>{{variable}}</1> page"
+      }
+    }
+  }
+  

@@ -1,0 +1,9 @@
+{
+  "About": {
+    "greeting": "Dies ist der Schlüssel der Über-Seite",
+    "description": {
+      "heading1": "Arbeit erledigt auf der Über-Seite",
+      "paragraph1": "Dies ist eine <1>{{variable}}</1> Seite"
+    }
+  }
+}

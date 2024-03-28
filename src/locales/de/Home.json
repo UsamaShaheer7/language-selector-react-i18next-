@@ -1,0 +1,9 @@
+{
+  "Home": {
+    "greeting": "Hallo Welt!",
+    "description": {
+      "heading1": "Wie geht es dir",
+      "paragraph1": "Dies ist eine <1>{{variable}}</1> Seite"
+    }
+  }
+}
